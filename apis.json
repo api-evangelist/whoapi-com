@@ -1,0 +1,69 @@
+{
+    "name": "WhoAPI.com",
+    "description": "WhoAPI turns raw domain data into machine readable outputs. Making it easy for our clients like Wikipedia, Twitter, King, Google to monitor their websites, protect their brands, invest in better domains and act faster on various domain related threats.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/968-whoapi-com.jpg",
+    "tags": [
+        "domains",
+        "have api",
+        "whois"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/whoapi-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WhoAPI.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/968-whoapi-com.jpg",
+            "humanURL": "http:\/\/whoapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/whoapi-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.timezonedb.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/whoapi.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/whoapi.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/whoapi"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/whoapi"
+        },
+        {
+            "type": "Email",
+            "url": "support@whoapi.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@whoapi.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/whoapi"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/whoapi.com"
+        }
+    ]
+}
